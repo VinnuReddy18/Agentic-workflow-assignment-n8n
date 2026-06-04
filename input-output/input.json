@@ -1,0 +1,27 @@
+
+[
+  
+{
+  
+  
+"senderEmail": 
+"customer@example.com",
+  
+  
+"subject": 
+"Unable to login to my account - URGENT",
+  
+  
+"emailBody": 
+"Hi Support Team,\n\nI have been trying to login to my account for the past 2 hours but keep getting an error message saying \"Invalid credentials\". I have tried resetting my password 3 times but still cannot access my account. This is extremely frustrating as I have an important presentation tomorrow and all my files are in the account.\n\nPlease help me resolve this ASAP!\n\nThanks,\nJohn Doe",
+  
+  
+"timestamp": 
+"2026-06-04T19:13:16.596+05:30",
+  
+  
+"threadId": 
+"sample-thread-001"
+  
+}
+]
